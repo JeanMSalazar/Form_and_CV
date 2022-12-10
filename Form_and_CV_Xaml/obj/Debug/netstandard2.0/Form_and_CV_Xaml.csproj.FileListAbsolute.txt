@@ -1,0 +1,15 @@
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\bin\Debug\netstandard2.0\Form_and_CV_Xaml.deps.json
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\bin\Debug\netstandard2.0\Form_and_CV_Xaml.dll
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\bin\Debug\netstandard2.0\Form_and_CV_Xaml.pdb
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\Form_and_CV_Xaml.csproj.AssemblyReference.cache
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\Form_and_CV_Xaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\Form_and_CV_Xaml.AssemblyInfoInputs.cache
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\Form_and_CV_Xaml.AssemblyInfo.cs
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\Form_and_CV_Xaml.csproj.CoreCompileInputs.cache
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\Form_and_CV_Xaml.dll
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\refint\Form_and_CV_Xaml.dll
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\Form_and_CV_Xaml.pdb
+C:\CCOMP-II\VISUAL_STUDIO_COMUNITY_APP\Form_and_CV_Xaml\Form_and_CV_Xaml\obj\Debug\netstandard2.0\ref\Form_and_CV_Xaml.dll

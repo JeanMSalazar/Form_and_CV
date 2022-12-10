@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Form_and_CV_Xaml.MainPage">
+
+    <Grid RowSpacing="0" ColumnSpacing="3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="175" />
+            <RowDefinition Height="150" />
+            <RowDefinition Height="175" />
+            <RowDefinition Height="325" />
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+
+        <BoxView Color="SandyBrown"/>
+        <Frame Margin="10,-30, 10, 10"
+               BorderColor="Black"
+               CornerRadius="50"
+               HeightRequest="60"
+               WidthRequest="60"
+               IsClippedToBounds="True"
+               HorizontalOptions="Center"
+               VerticalOptions="Center">
+            <Image Source="monkey_cartoon.jpg"
+                Aspect="AspectFill"
+                Margin="-20"
+                HeightRequest="100"
+                WidthRequest="100" />
+        </Frame>
+        <Label Grid.Row="0"
+               Grid.Column="0"
+               Text="Jose Alberto"
+               Margin="25, 129, 3, 5"/>
+        <Label Grid.Row="0"
+               Grid.Column="0"
+               Text="Sanchez Perez"
+               VerticalOptions="End"
+               HorizontalOptions="Center"/>
+
+        <BoxView Grid.Row="1" Color="SandyBrown"/>
+        <Label Grid.Row="1"
+               Grid.Column="0"
+               Text="Age:" FontSize="Medium" TextColor="Black" TextDecorations="Underline"/>
+        <Label Grid.Row="1"
+               Grid.Column="0"
+               Text="32 años " 
+               Margin="5, 50, 3, 5"/>
+
+        <BoxView Grid.Row="2" Color="SandyBrown"/>
+        <Label Grid.Row="2"
+               Grid.Column="0"
+               Text="Address: " FontSize="Medium" TextColor="Black" TextDecorations="Underline"/>
+        <Label Grid.Row="2"
+               Grid.Column="0"
+               Text="jose.sanchez@gmail.com"
+               Margin="5, 50, 3, 5"/>
+
+
+        <BoxView Grid.Row="3" Color="SandyBrown" />
+        <Label Grid.Row="3"
+               Grid.Column="0"
+               Text="Formation:" FontSize="Medium" TextColor="Black" TextDecorations="Underline"/>
+        <Label Grid.Row="3"
+               Grid.Column="0"
+               Text="ESMA, Madrid| 2019-2020"
+               Margin="5, 50, 3, 5"/>
+        <Label Grid.Row="3"
+               Grid.Column="0"
+               Text="Universidad de la frontera, Mexico DF| 2011-2012"
+               Margin="5, 100, 3, 5"/>
+
+
+        <BoxView Grid.Column="1" Color="White" />
+        <Label Grid.Row="0"
+               Grid.Column="1"
+               Text="Occupation:" FontSize="Medium" TextColor="Black" TextDecorations="Underline"/>
+        <Label Grid.Column="1"
+               Text="Trabajador Social"
+               Margin="5, 50, 3, 5" />
+        <Label Grid.Column="1"
+               Text="Asistencia Social"
+               Margin="5, 80, 3, 5" />
+
+
+        <BoxView Grid.Row="1" Grid.Column="1" Color="White" />
+        <Label Grid.Row="1"
+               Grid.Column="1"
+               Text="Languages:" FontSize="Medium" TextColor="Black" TextDecorations="Underline"/>
+        <Label Grid.Row="1"
+               Grid.Column="1"
+               Text="Español: nativo"
+               Margin="5, 50, 3, 5" />
+        <Label Grid.Row="1"
+               Grid.Column="1"
+               Text="Inglés: bilingue(TOEIC 950)"
+               Margin="5, 80, 3, 5" />
+        <Label Grid.Row="1"
+               Grid.Column="1"
+               Text="Frances: Intermedio(B2)"
+               Margin="5, 110, 3, 5" />
+
+
+        <BoxView Grid.Row="2" Grid.Column="1" Color="White"/>
+        <Label Grid.Row="2"
+               Grid.Column="1"
+               Text="Skills:" FontSize="Medium" TextColor="Black" TextDecorations="Underline"/>
+        <Label Grid.Row="2"
+               Grid.Column="1"
+               Text="Acondicionamiento fisico"
+               Margin="5, 50, 3, 5"/>
+        <Label Grid.Row="2"
+               Grid.Column="1"
+               Text="Creacion videos deportivos"
+               Margin="5, 80, 3, 5"/>
+        <Label Grid.Row="2"
+               Grid.Column="1"
+               Text="Pack office"
+               Margin="5, 110, 3, 5"/>
+        <Label Grid.Row="2"
+               Grid.Column="1"
+               Text="Tenis"
+               Margin="5, 140, 3, 5"/>
+
+
+
+        <BoxView Grid.Row="3" Grid.Column="1" Color="White" />
+        <Label Grid.Row="3"
+               Grid.Column="1"
+               Text="Work experience:" FontSize="Medium" TextColor="Black" TextDecorations="Underline"/>
+        <Label Grid.Row="3"
+               Grid.Column="1"
+               Text="Coordinador y mediador entre los equipos de ayuda psicologica a jovenes y niños en exclusion social."
+               Margin="5, 50, 3, 5"/>
+        <Label Grid.Row="3"
+               Grid.Column="1"
+               Text="Velar por la salud mental del equipo y de miembros involucrados en proyectos."
+               Margin="5, 120, 3, 5"/>
+        <Label Grid.Row="3"
+               Grid.Column="1"
+               Text="Programar diferentes actividades extracurriculares"
+               Margin="5, 170, 3, 5"/>
+        <Label Grid.Row="3"
+               Grid.Column="1"
+               Text="Monitor de ejercicios fisicos para adolescentes"
+               Margin="5, 220, 3, 5"/>
+
+
+
+    </Grid>
+
+</ContentPage>
